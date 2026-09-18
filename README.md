@@ -152,7 +152,7 @@ Hello, I’m Sakil Hasan Saikat, a dedicated Cybersecurity Researcher and Securi
 <br clear="both">
 
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/0xSaikat/0xSaikat/output/snake.svg" alt="Snake animation" /> -->
+  <img src="https://raw.githubusercontent.com/0xSaikat/0xSaikat/output/snake.svg" alt="Snake animation" />
   <br clear="both">
   <br>
   <br>
