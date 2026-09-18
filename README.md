@@ -10,7 +10,7 @@
 
 <p align="center">
   <span style="font-size: 1.5em; color: #f5c518;">
-    <marquee behavior="scroll" direction="left">🔓 Penetration Tester | 🛡 Ethical Hacker | 💻 Cybersecurity Professional | 🎯 Python Automation Expert</marquee>
+    <marquee behavior="scroll" direction="left">🔓 Data Analyst | 🛡 Ethical Hacker | 💻 Cybersecurity Professional | 🎯 Python Automation Expert</marquee>
   </span>
 </p>
 
