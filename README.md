@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/0xSaikat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Parvej+Mollik+Saikat;Penetration+Tester;Red+Teamer;Ethical+Hacker;Malware+Analyst;Vulnerability+Researcher;Exploit+Developer;Reverse+Engineer;Red+Team+Operator;Bug+Bounty+Hunter;Web3+Dev+%26+Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Parvej+Mollik;Penetration+Tester;Red+Teamer;Ethical+Hacker;Malware+Analyst;Vulnerability+Researcher;Exploit+Developer;Reverse+Engineer;Red+Team+Operator;Bug+Bounty+Hunter;Web3+Dev+%26+Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 </br>
 
 <p style="font-family: 'monospace';">
-Hello, I’m Sakil Hasan Saikat, a dedicated Cybersecurity Researcher and Security Analyst with a strong focus on offensive security, vulnerability management, and ethical hacking. Over the years, I’ve successfully identified and reported numerous security vulnerabilities, earning recognition in over 20 Halls of Fame, including Microsoft, NASA, Google, Siemens, NVIDIA, UNICEF, WHO, Dell Technologies, the U.S. Department of the Treasury, LinkedIn, and the National Science Foundation and more.
+Hello, I’m Parvej Mollik, a dedicated Cybersecurity Researcher and Security Analyst with a strong focus on offensive security, vulnerability management, and ethical hacking. Over the years, I’ve successfully identified and reported numerous security vulnerabilities, earning recognition in over 20 Halls of Fame, including Microsoft, NASA, Google, Siemens, NVIDIA, UNICEF, WHO, Dell Technologies, the U.S. Department of the Treasury, LinkedIn, and the National Science Foundation and more.
 </p>
 
 
