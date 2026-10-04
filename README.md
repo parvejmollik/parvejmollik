@@ -158,25 +158,24 @@ Hello, I’m Parvej Mollik, a dedicated Cybersecurity Researcher and Security An
   <br>
   
 <div align="right">
-  <a href="https://www.linkedin.com/in/0xsaikat">
-    <img src="https://avatars.githubusercontent.com/u/72136146?s=400&u=3eaa132c43ebe24c797e74687c7a54793bd25a81&v=4" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px; margin-top: 20px; border-radius: 50%;"/>
+  <a href="https://github.com/parvejmollik">
+    <img src="https://github.com/parvejmollik.png?size=100" width="50" height="50" alt="parvejmollik" />
   </a>
-  <p id="random-quote" style="font-size: 18px; font-weight: bold; color: #00FF00; font-family: 'Courier New', monospace; margin-bottom: 20px;">
-    🔑 Passwords are like jokes: the longer and more obscure, the better.
-  </p>
+  <br>
+  <b>🔑 Passwords are like jokes: the longer and more obscure, the better.</b>
 </div>
 
 <br>
-<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSaikat&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvejmollik&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" alt="Contribution Graph" />
 </div>
 
 ###
 
 <div align="center">
-  <h4 align="center" style="font-family: serif;">Total Profile Visitors</h4>
-  <img src="https://profile-counter.glitch.me/0xSaikat/count.svg?"  />
+  <h4>Total Profile Visitors</h4>
+  <img src="https://komarev.com/ghpvc/?username=parvejmollik&color=00ff00&style=flat-square&label=Visitors" alt="Profile Views" />
 </div>
 
 ###
