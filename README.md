@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/0xSaikat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Sakil+Hasan+Saikat;Penetration+Tester;Red+Teamer;Ethical+Hacker;Malware+Analyst;Vulnerability+Researcher;Exploit+Developer;Reverse+Engineer;Red+Team+Operator;Bug+Bounty+Hunter;Web3+Dev+%26+Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Parvej+Mollik+Parvej;Penetration+Tester;Red+Teamer;Ethical+Hacker;Malware+Analyst;Vulnerability+Researcher;Exploit+Developer;Reverse+Engineer;Red+Team+Operator;Bug+Bounty+Hunter;Web3+Dev+%26+Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/>
   </a>
 </p>
 
