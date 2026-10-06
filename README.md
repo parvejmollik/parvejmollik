@@ -123,7 +123,7 @@ Hello, I’m Parvej Mollik, a dedicated Cybersecurity Researcher and Security An
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+######
 
 <div align="left">
   <a href="https://www.linkedin.com/in/0xsaikat/" target="_blank">
@@ -136,11 +136,9 @@ Hello, I’m Parvej Mollik, a dedicated Cybersecurity Researcher and Security An
   <a href="https://x.com/0xSaikat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-</div>
+ 
 
-###
+######
 
 <br clear="both">
 
