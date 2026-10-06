@@ -125,17 +125,7 @@ Hello, I’m Parvej Mollik, a dedicated Cybersecurity Researcher and Security An
 
 ######
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/0xsaikat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
- 
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  
-  <a href="https://x.com/0xSaikat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+
  
 
 ######
