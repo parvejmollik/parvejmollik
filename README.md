@@ -1,7 +1,7 @@
-![logo](https://github.com/0xSaikat/0xSaikat/blob/main/github_cover.png)
+![logo](https://github.com/parvejmollik/parvejmollik/blob/main/Image.jpg)
 
 <p align="center">
-  <a href="https://github.com/0xSaikat">
+  <a href="https://github.com/parvejmollik">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Parvej+Mollik;Penetration+Tester;Red+Teamer;Ethical+Hacker;Malware+Analyst;Vulnerability+Researcher;Exploit+Developer;Reverse+Engineer;Red+Team+Operator;Bug+Bounty+Hunter;Web3+Dev+%26+Audit;Solidity+•+Bash+•+Python+Dev" alt="Typing SVG" align="center"/>
   </a>
 </p>
